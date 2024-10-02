@@ -15,3 +15,10 @@ illumio.py - This contains the source code
 tag_counts.csv - This file shows the count for each tag which is applied to flow logs
 port_protocol_counts.csv - This file shows the count of each port or protocol combination in the logs.
 
+
+
+
+Tests Performed:
+1. Parsing the basic flow log
+2. How to generate the correct output files
+3. How to handle untagged entries
